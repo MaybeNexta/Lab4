@@ -48,7 +48,6 @@ body {
   box-shadow: 0 0 10px #ccc;
 }
 
-/* Анімація обертання Місяця */
 @keyframes rotateOrbit {
   from {
     transform: translate(-50%, -50%) rotate(0deg);
